@@ -23,7 +23,10 @@ Un sencillo proyecto en JavaScript para agregar nombres a una lista y sortear al
 - Si no hay amigos en la lista, aparecerá un mensaje de alerta.
 
 📂 Estructura del Proyecto
+
+```bash
 |-- index.html
 |-- script.js
 |-- styles.css (opcional)
 |-- README.md
+```
